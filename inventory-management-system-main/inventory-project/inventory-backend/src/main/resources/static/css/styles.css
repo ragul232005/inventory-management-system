@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background:#f5f7fb; color:#222;}
+header { background: linear-gradient(90deg,#667eea,#764ba2); color:white; padding:16px;}
+main { display:flex; gap:20px; padding:20px; flex-wrap:wrap;}
+.panel { background:white; padding:16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.08); flex:1; min-width:320px;}
+table { width:100%; border-collapse:collapse; }
+th, td { padding:8px; border-bottom:1px solid #eee; text-align:left;}
+.controls { display:flex; gap:8px; margin-bottom:8px; }
+#productForm input, #productForm select { display:block; margin-bottom:8px; width:100%; padding:8px;}
+button { padding:8px 12px; cursor:pointer;}
