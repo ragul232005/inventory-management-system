@@ -1,9 +1,0 @@
-com\example\inventory\controller\ProductController.class
-com\example\inventory\repository\CategoryRepository.class
-com\example\inventory\InventoryApplication.class
-com\example\inventory\controller\CategoryController.class
-com\example\inventory\config\WebSocketConfig.class
-com\example\inventory\repository\ProductRepository.class
-com\example\inventory\service\ProductService.class
-com\example\inventory\model\Product.class
-com\example\inventory\model\Category.class
